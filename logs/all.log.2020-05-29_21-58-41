@@ -1,0 +1,47 @@
+2020-05-29 21:58:41,805 - [basepage.py-->line:132] - INFO: 获取元素--('xpath', '//*[@class="form-control invest-unit-investinput"]')--属性成功,耗时：0.06406068801879883秒
+2020-05-29 21:58:41,983 - [basepage.py-->line:165] - INFO: 输入文本--('xpath', '//*[@class="form-control invest-unit-investinput"]')--输入成功,耗时：0.13109421730041504秒
+2020-05-29 21:58:42,113 - [basepage.py-->line:149] - INFO: 点击元素--('xpath', '//button[@class="btn btn-special height_style"]')--点击成功,耗时：0.13009357452392578秒
+2020-05-29 21:58:42,348 - [basepage.py-->line:115] - INFO: 元素--('xpath', '//div[@class="capital_font1 note" and text()="投标成功！"]')--加载成功，耗时：0.23316431045532227秒
+2020-05-29 21:59:12,570 - [basepage.py-->line:149] - INFO: 点击元素--('xpath', '//div[@class="layui-layer-content"]//button[text()="查看并激活"]')--点击成功,耗时：30.222465753555298秒
+2020-05-29 21:59:12,628 - [basepage.py-->line:115] - INFO: 元素--('xpath', '//*[@class="color_sub"]')--加载成功，耗时：0.05804038047790527秒
+2020-05-29 21:59:12,642 - [test_invest.py-->line:158] - ERROR: 用例断言失败
+2020-05-29 21:59:12,642 - [test_invest.py-->line:159] - ERROR: assert ('投标成功！' == '投标成功！'
+    投标成功！ and Decimal('100.00') == '100')
+Traceback (most recent call last):
+  File "F:\lemonban\lianxi\qcd_web\testcases\test_invest.py", line 154, in test_invest_success
+    assert case['expected'] == res and invest_money == case['amount']
+AssertionError: assert ('投标成功！' == '投标成功！'
+    投标成功！ and Decimal('100.00') == '100')
+2020-05-29 21:59:21,342 - [basepage.py-->line:165] - INFO: 输入文本--('xpath', '//*[@name="phone"]')--输入成功,耗时：0.11610198020935059秒
+2020-05-29 21:59:21,537 - [basepage.py-->line:165] - INFO: 输入文本--('xpath', '//*[@name="password"]')--输入成功,耗时：0.19511961936950684秒
+2020-05-29 21:59:21,711 - [basepage.py-->line:149] - INFO: 点击元素--('xpath', '//*[@class="btn btn-special"]')--点击成功,耗时：0.17412567138671875秒
+2020-05-29 21:59:21,754 - [basepage.py-->line:59] - INFO: 元素--('xpath', '//*[@class="form-error-info"]')--等待成功,耗时：0.04302787780761719秒
+2020-05-29 21:59:21,778 - [test_login.py-->line:48] - INFO: 用例执行通过
+2020-05-29 21:59:21,778 - [test_login.py-->line:54] - INFO: 用例执行完毕
+2020-05-29 21:59:22,479 - [basepage.py-->line:165] - INFO: 输入文本--('xpath', '//*[@name="phone"]')--输入成功,耗时：0.15911388397216797秒
+2020-05-29 21:59:22,597 - [basepage.py-->line:165] - INFO: 输入文本--('xpath', '//*[@name="password"]')--输入成功,耗时：0.1170809268951416秒
+2020-05-29 21:59:22,738 - [basepage.py-->line:149] - INFO: 点击元素--('xpath', '//*[@class="btn btn-special"]')--点击成功,耗时：0.14110088348388672秒
+2020-05-29 21:59:22,790 - [basepage.py-->line:59] - INFO: 元素--('xpath', '//*[@class="form-error-info"]')--等待成功,耗时：0.050035715103149414秒
+2020-05-29 21:59:22,810 - [test_login.py-->line:48] - INFO: 用例执行通过
+2020-05-29 21:59:22,810 - [test_login.py-->line:54] - INFO: 用例执行完毕
+2020-05-29 21:59:23,563 - [basepage.py-->line:165] - INFO: 输入文本--('xpath', '//*[@name="phone"]')--输入成功,耗时：0.20514726638793945秒
+2020-05-29 21:59:23,743 - [basepage.py-->line:165] - INFO: 输入文本--('xpath', '//*[@name="password"]')--输入成功,耗时：0.18012642860412598秒
+2020-05-29 21:59:23,891 - [basepage.py-->line:149] - INFO: 点击元素--('xpath', '//*[@class="btn btn-special"]')--点击成功,耗时：0.14710378646850586秒
+2020-05-29 21:59:23,950 - [basepage.py-->line:59] - INFO: 元素--('xpath', '//*[@class="form-error-info"]')--等待成功,耗时：0.05804181098937988秒
+2020-05-29 21:59:23,993 - [test_login.py-->line:48] - INFO: 用例执行通过
+2020-05-29 21:59:23,993 - [test_login.py-->line:54] - INFO: 用例执行完毕
+2020-05-29 21:59:24,590 - [basepage.py-->line:165] - INFO: 输入文本--('xpath', '//*[@name="phone"]')--输入成功,耗时：0.1581118106842041秒
+2020-05-29 21:59:24,747 - [basepage.py-->line:165] - INFO: 输入文本--('xpath', '//*[@name="password"]')--输入成功,耗时：0.15711069107055664秒
+2020-05-29 21:59:24,888 - [basepage.py-->line:149] - INFO: 点击元素--('xpath', '//*[@class="btn btn-special"]')--点击成功,耗时：0.14110112190246582秒
+2020-05-29 21:59:25,063 - [basepage.py-->line:59] - INFO: 元素--('xpath', '//div[@class="layui-layer-content"]')--等待成功,耗时：0.1751255989074707秒
+2020-05-29 21:59:25,094 - [test_login.py-->line:67] - INFO: 用例断言通过
+2020-05-29 21:59:25,094 - [test_login.py-->line:73] - INFO: 用例执行完毕
+2020-05-29 21:59:26,189 - [basepage.py-->line:165] - INFO: 输入文本--('xpath', '//*[@name="phone"]')--输入成功,耗时：0.17312216758728027秒
+2020-05-29 21:59:26,359 - [basepage.py-->line:165] - INFO: 输入文本--('xpath', '//*[@name="password"]')--输入成功,耗时：0.16911935806274414秒
+2020-05-29 21:59:26,487 - [basepage.py-->line:149] - INFO: 点击元素--('xpath', '//*[@class="btn btn-special"]')--点击成功,耗时：0.12809157371520996秒
+2020-05-29 21:59:26,576 - [basepage.py-->line:59] - INFO: 元素--('xpath', '//div[@class="layui-layer-content"]')--等待成功,耗时：0.08808088302612305秒
+2020-05-29 21:59:26,596 - [test_login.py-->line:67] - INFO: 用例断言通过
+2020-05-29 21:59:26,596 - [test_login.py-->line:73] - INFO: 用例执行完毕
+2020-05-29 21:59:27,240 - [basepage.py-->line:165] - INFO: 输入文本--('xpath', '//*[@name="phone"]')--输入成功,耗时：0.16111469268798828秒
+2020-05-29 21:59:27,387 - [basepage.py-->line:165] - INFO: 输入文本--('xpath', '//*[@name="password"]')--输入成功,耗时：0.14710426330566406秒
+2020-05-29 21:59:27,527 - [basepage.py-->line:149] - INFO: 点击元素--('xpath', '//*[@class="btn btn-special"]')--点击成功,耗时：0.14009928703308105秒

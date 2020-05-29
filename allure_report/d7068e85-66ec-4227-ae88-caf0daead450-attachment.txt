@@ -1,0 +1,14 @@
+INFO     yuan:basepage.py:132 获取元素--('xpath', '//*[@class="form-control invest-unit-investinput"]')--属性成功,耗时：0.06004452705383301秒
+INFO     yuan:basepage.py:165 输入文本--('xpath', '//*[@class="form-control invest-unit-investinput"]')--输入成功,耗时：0.14010143280029297秒
+INFO     yuan:basepage.py:149 点击元素--('xpath', '//button[@class="btn btn-special height_style"]')--点击成功,耗时：0.14710617065429688秒
+INFO     yuan:basepage.py:115 元素--('xpath', '//*[text()="投标成功！"]')--加载成功，耗时：0.2511763572692871秒
+INFO     yuan:basepage.py:149 点击元素--('xpath', '//div[@class="layui-layer-content"]//button[text()="查看并激活"]')--点击成功,耗时：29.367860317230225秒
+INFO     yuan:basepage.py:115 元素--('xpath', '//*[@class="color_sub"]')--加载成功，耗时：0.06703734397888184秒
+ERROR    yuan:test_invest.py:155 用例断言失败
+ERROR    yuan:test_invest.py:156 assert ('投标成功！' == '投标成功！'
+    投标成功！ and Decimal('100.00') == '100')
+Traceback (most recent call last):
+  File "F:\lemonban\lianxi\qcd_web\testcases\test_invest.py", line 151, in test_invest_success
+    assert case['expected'] == res and invest_money == case['amount']
+AssertionError: assert ('投标成功！' == '投标成功！'
+    投标成功！ and Decimal('100.00') == '100')

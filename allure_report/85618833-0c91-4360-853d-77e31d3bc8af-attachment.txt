@@ -1,0 +1,6 @@
+INFO     yuan:basepage.py:165 输入文本--('xpath', '//*[@name="phone"]')--输入成功,耗时：0.09406542778015137秒
+INFO     yuan:basepage.py:165 输入文本--('xpath', '//*[@name="password"]')--输入成功,耗时：0.12408971786499023秒
+INFO     yuan:basepage.py:149 点击元素--('xpath', '//*[@class="btn btn-special"]')--点击成功,耗时：0.10607409477233887秒
+INFO     yuan:basepage.py:59 元素--('xpath', '//*[@class="form-error-info"]')--等待成功,耗时：0.03202176094055176秒
+INFO     yuan:test_login.py:53 用例执行通过
+INFO     yuan:test_login.py:59 用例执行完毕

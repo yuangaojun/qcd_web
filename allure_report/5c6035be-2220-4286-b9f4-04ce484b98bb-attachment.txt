@@ -1,0 +1,19 @@
+INFO     yuan:basepage.py:219 清空输入框--('xpath', '//*[@class="form-control invest-unit-investinput"]')--清除成功,耗时：0.028021574020385742秒
+INFO     yuan:basepage.py:165 输入文本--('xpath', '//*[@class="form-control invest-unit-investinput"]')--输入成功,耗时：0.1310882568359375秒
+INFO     yuan:basepage.py:149 点击元素--('xpath', '//button[@class="btn btn-special height_style"]')--点击成功,耗时：0.08906197547912598秒
+INFO     yuan:basepage.py:115 元素--('xpath', '//*[@class="text-center"]')--加载成功，耗时：0.6874887943267822秒
+INFO     yuan:basepage.py:149 点击元素--('xpath', '//a[@class="layui-layer-btn0"]')--点击成功,耗时：0.10709643363952637秒
+ERROR    yuan:test_invest.py:124 用例断言失败
+ERROR    yuan:test_invest.py:125 assert '购买标的金额不能大于标剩余金额' == '购买标的金额不能大于标总金额'
+  - 购买标的金额不能大于标总金额
+  ?            ^
+  + 购买标的金额不能大于标剩余金额
+  ?            ^^
+Traceback (most recent call last):
+  File "F:\lemonban\lianxi\qcd_web\testcases\test_invest.py", line 121, in test_invest_error_window
+    assert case['expected'] == res
+AssertionError: assert '购买标的金额不能大于标剩余金额' == '购买标的金额不能大于标总金额'
+  - 购买标的金额不能大于标总金额
+  ?            ^
+  + 购买标的金额不能大于标剩余金额
+  ?            ^^

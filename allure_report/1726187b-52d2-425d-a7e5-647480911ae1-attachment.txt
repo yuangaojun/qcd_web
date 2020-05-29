@@ -1,0 +1,7 @@
+INFO     yuan:basepage.py:219 清空输入框--('xpath', '//*[@class="form-control invest-unit-investinput"]')--清除成功,耗时：0.021996021270751953秒
+INFO     yuan:basepage.py:165 输入文本--('xpath', '//*[@class="form-control invest-unit-investinput"]')--输入成功,耗时：0.06306099891662598秒
+INFO     yuan:basepage.py:149 点击元素--('xpath', '//button[@class="btn btn-special height_style"]')--点击成功,耗时：0.0790412425994873秒
+INFO     yuan:basepage.py:115 元素--('xpath', '//*[@class="text-center"]')--加载成功，耗时：0.16111373901367188秒
+INFO     yuan:basepage.py:149 点击元素--('xpath', '//a[@class="layui-layer-btn0"]')--点击成功,耗时：0.0910634994506836秒
+INFO     yuan:test_invest.py:130 用例执行通过
+INFO     yuan:test_invest.py:136 用例执行完毕

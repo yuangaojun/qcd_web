@@ -1,0 +1,52 @@
+2020-05-29 21:16:40,847 - [basepage.py-->line:165] - INFO: 输入文本--('xpath', '//*[@name="phone"]')--输入成功,耗时：0.20016050338745117秒
+2020-05-29 21:16:40,981 - [basepage.py-->line:165] - INFO: 输入文本--('xpath', '//*[@name="password"]')--输入成功,耗时：0.13307881355285645秒
+2020-05-29 21:16:41,123 - [basepage.py-->line:149] - INFO: 点击元素--('xpath', '//*[@class="btn btn-special"]')--点击成功,耗时：0.14009857177734375秒
+2020-05-29 21:17:27,873 - [basepage.py-->line:149] - INFO: 点击元素--('xpath', '(//a[text()="抢投标"])[1]')--点击成功,耗时：46.750205755233765秒
+2020-05-29 21:17:27,972 - [basepage.py-->line:219] - INFO: 清空输入框--('xpath', '//*[@class="form-control invest-unit-investinput"]')--清除成功,耗时：0.04601287841796875秒
+2020-05-29 21:17:28,123 - [basepage.py-->line:165] - INFO: 输入文本--('xpath', '//*[@class="form-control invest-unit-investinput"]')--输入成功,耗时：0.09408736228942871秒
+2020-05-29 21:17:28,195 - [basepage.py-->line:115] - INFO: 元素--('xpath', '//button[@class="btn btn-special height_style"]')--加载成功，耗时：0.07203435897827148秒
+2020-05-29 21:17:28,195 - [test_invest.py-->line:101] - INFO: 用例执行通过
+2020-05-29 21:17:28,195 - [test_invest.py-->line:107] - INFO: 用例执行完毕
+2020-05-29 21:17:28,228 - [basepage.py-->line:219] - INFO: 清空输入框--('xpath', '//*[@class="form-control invest-unit-investinput"]')--清除成功,耗时：0.02501678466796875秒
+2020-05-29 21:17:28,352 - [basepage.py-->line:165] - INFO: 输入文本--('xpath', '//*[@class="form-control invest-unit-investinput"]')--输入成功,耗时：0.0920567512512207秒
+2020-05-29 21:17:28,390 - [basepage.py-->line:115] - INFO: 元素--('xpath', '//button[@class="btn btn-special height_style"]')--加载成功，耗时：0.03802895545959473秒
+2020-05-29 21:17:28,390 - [test_invest.py-->line:101] - INFO: 用例执行通过
+2020-05-29 21:17:28,390 - [test_invest.py-->line:107] - INFO: 用例执行完毕
+2020-05-29 21:17:28,423 - [basepage.py-->line:219] - INFO: 清空输入框--('xpath', '//*[@class="form-control invest-unit-investinput"]')--清除成功,耗时：0.026002883911132812秒
+2020-05-29 21:17:28,540 - [basepage.py-->line:165] - INFO: 输入文本--('xpath', '//*[@class="form-control invest-unit-investinput"]')--输入成功,耗时：0.08706235885620117秒
+2020-05-29 21:17:28,579 - [basepage.py-->line:115] - INFO: 元素--('xpath', '//button[@class="btn btn-special height_style"]')--加载成功，耗时：0.039040565490722656秒
+2020-05-29 21:17:28,579 - [test_invest.py-->line:101] - INFO: 用例执行通过
+2020-05-29 21:17:28,579 - [test_invest.py-->line:107] - INFO: 用例执行完毕
+2020-05-29 21:17:28,631 - [basepage.py-->line:219] - INFO: 清空输入框--('xpath', '//*[@class="form-control invest-unit-investinput"]')--清除成功,耗时：0.027016401290893555秒
+2020-05-29 21:17:28,761 - [basepage.py-->line:165] - INFO: 输入文本--('xpath', '//*[@class="form-control invest-unit-investinput"]')--输入成功,耗时：0.10507702827453613秒
+2020-05-29 21:17:28,798 - [basepage.py-->line:115] - INFO: 元素--('xpath', '//button[@class="btn btn-special height_style"]')--加载成功，耗时：0.036009788513183594秒
+2020-05-29 21:17:28,798 - [test_invest.py-->line:101] - INFO: 用例执行通过
+2020-05-29 21:17:28,798 - [test_invest.py-->line:107] - INFO: 用例执行完毕
+2020-05-29 21:17:28,832 - [basepage.py-->line:219] - INFO: 清空输入框--('xpath', '//*[@class="form-control invest-unit-investinput"]')--清除成功,耗时：0.02499866485595703秒
+2020-05-29 21:17:28,940 - [basepage.py-->line:165] - INFO: 输入文本--('xpath', '//*[@class="form-control invest-unit-investinput"]')--输入成功,耗时：0.0770726203918457秒
+2020-05-29 21:17:29,047 - [basepage.py-->line:149] - INFO: 点击元素--('xpath', '//button[@class="btn btn-special height_style"]')--点击成功,耗时：0.10706019401550293秒
+2020-05-29 21:17:29,739 - [basepage.py-->line:115] - INFO: 元素--('xpath', '//*[@class="text-center"]')--加载成功，耗时：0.690509557723999秒
+2020-05-29 21:17:29,842 - [basepage.py-->line:149] - INFO: 点击元素--('xpath', '//a[@class="layui-layer-btn0"]')--点击成功,耗时：0.10207962989807129秒
+2020-05-29 21:17:29,843 - [test_invest.py-->line:125] - INFO: 用例执行通过
+2020-05-29 21:17:29,843 - [test_invest.py-->line:131] - INFO: 用例执行完毕
+2020-05-29 21:17:29,911 - [basepage.py-->line:219] - INFO: 清空输入框--('xpath', '//*[@class="form-control invest-unit-investinput"]')--清除成功,耗时：0.025014400482177734秒
+2020-05-29 21:17:30,022 - [basepage.py-->line:165] - INFO: 输入文本--('xpath', '//*[@class="form-control invest-unit-investinput"]')--输入成功,耗时：0.08606219291687012秒
+2020-05-29 21:17:30,127 - [basepage.py-->line:149] - INFO: 点击元素--('xpath', '//button[@class="btn btn-special height_style"]')--点击成功,耗时：0.10507726669311523秒
+2020-05-29 21:17:30,353 - [basepage.py-->line:115] - INFO: 元素--('xpath', '//*[@class="text-center"]')--加载成功，耗时：0.22615528106689453秒
+2020-05-29 21:17:30,475 - [basepage.py-->line:149] - INFO: 点击元素--('xpath', '//a[@class="layui-layer-btn0"]')--点击成功,耗时：0.12211728096008301秒
+2020-05-29 21:17:30,476 - [test_invest.py-->line:125] - INFO: 用例执行通过
+2020-05-29 21:17:30,476 - [test_invest.py-->line:131] - INFO: 用例执行完毕
+2020-05-29 21:17:30,597 - [basepage.py-->line:219] - INFO: 清空输入框--('xpath', '//*[@class="form-control invest-unit-investinput"]')--清除成功,耗时：0.02501678466796875秒
+2020-05-29 21:17:30,711 - [basepage.py-->line:165] - INFO: 输入文本--('xpath', '//*[@class="form-control invest-unit-investinput"]')--输入成功,耗时：0.0850367546081543秒
+2020-05-29 21:17:30,806 - [basepage.py-->line:149] - INFO: 点击元素--('xpath', '//button[@class="btn btn-special height_style"]')--点击成功,耗时：0.09406518936157227秒
+2020-05-29 21:17:31,022 - [basepage.py-->line:115] - INFO: 元素--('xpath', '//*[@class="text-center"]')--加载成功，耗时：0.21615266799926758秒
+2020-05-29 21:17:31,124 - [basepage.py-->line:149] - INFO: 点击元素--('xpath', '//a[@class="layui-layer-btn0"]')--点击成功,耗时：0.10207438468933105秒
+2020-05-29 21:17:31,124 - [test_invest.py-->line:125] - INFO: 用例执行通过
+2020-05-29 21:17:31,124 - [test_invest.py-->line:131] - INFO: 用例执行完毕
+2020-05-29 21:17:31,166 - [basepage.py-->line:219] - INFO: 清空输入框--('xpath', '//*[@class="form-control invest-unit-investinput"]')--清除成功,耗时：0.02501702308654785秒
+2020-05-29 21:17:31,287 - [basepage.py-->line:165] - INFO: 输入文本--('xpath', '//*[@class="form-control invest-unit-investinput"]')--输入成功,耗时：0.09306764602661133秒
+2020-05-29 21:17:31,356 - [basepage.py-->line:149] - INFO: 点击元素--('xpath', '//button[@class="btn btn-special height_style"]')--点击成功,耗时：0.06903982162475586秒
+2020-05-29 21:17:31,627 - [basepage.py-->line:115] - INFO: 元素--('xpath', '//*[@class="text-center"]')--加载成功，耗时：0.2711911201477051秒
+2020-05-29 21:17:31,740 - [basepage.py-->line:149] - INFO: 点击元素--('xpath', '//a[@class="layui-layer-btn0"]')--点击成功,耗时：0.11209726333618164秒
+2020-05-29 21:17:31,740 - [test_invest.py-->line:125] - INFO: 用例执行通过
+2020-05-29 21:17:31,740 - [test_invest.py-->line:131] - INFO: 用例执行完毕

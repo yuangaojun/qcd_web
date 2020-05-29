@@ -1,0 +1,9 @@
+INFO     yuan:basepage.py:165 输入文本--('xpath', '//*[@name="phone"]')--输入成功,耗时：0.20111536979675293秒
+INFO     yuan:basepage.py:165 输入文本--('xpath', '//*[@name="password"]')--输入成功,耗时：0.12108588218688965秒
+INFO     yuan:basepage.py:149 点击元素--('xpath', '//*[@class="btn btn-special"]')--点击成功,耗时：0.10809588432312012秒
+INFO     yuan:basepage.py:149 点击元素--('xpath', '(//a[text()="抢投标"])[1]')--点击成功,耗时：46.27584910392761秒
+INFO     yuan:basepage.py:219 清空输入框--('xpath', '//*[@class="form-control invest-unit-investinput"]')--清除成功,耗时：0.0690300464630127秒
+INFO     yuan:basepage.py:165 输入文本--('xpath', '//*[@class="form-control invest-unit-investinput"]')--输入成功,耗时：0.15711164474487305秒
+INFO     yuan:basepage.py:115 元素--('xpath', '//button[@class="btn btn-special height_style"]')--加载成功，耗时：0.05503964424133301秒
+INFO     yuan:test_invest.py:106 用例执行通过
+INFO     yuan:test_invest.py:112 用例执行完毕
